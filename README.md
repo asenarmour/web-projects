@@ -1,10 +1,10 @@
 # web-projects
 
 
-![image](ss/one.png)
+![image](project3/ss/one.png)
 
-![image](ss/two.png)
+![image](project3ss/two.png)
 
-![image](ss/three.png)
+![image](project3ss/three.png)
 
-![image](ss/four.png)
+![image](project3ss/four.png)
